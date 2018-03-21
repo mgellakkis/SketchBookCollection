@@ -1,4 +1,4 @@
-# BookCollection
+# Book Collection (Book Club Mobile App)
 
 Design an application that allows users to keep track of the books they read and own.
 The application must: 
