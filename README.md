@@ -12,4 +12,5 @@ The application must:
 
 ## Brainstorming
 
-![conceptImage](https://github.com/chaonanchen/Au_Groups/blob/Database/images/11.png)
+![conceptImage](https://github.com/mgellakkis/SketchBookCollection/blob/staging/images/1.JPG)
+![conceptImage](https://github.com/mgellakkis/SketchBookCollection/blob/staging/images/2.JPG)
